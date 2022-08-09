@@ -4,7 +4,6 @@
 Game-Class: initializes the whole game by defining game objects, variables,
     game-logic, etc.
 """
-__author__ = 'Oliver Banse'
 
 import pygame
 from pygame.locals import *

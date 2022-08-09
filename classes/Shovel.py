@@ -4,7 +4,6 @@
 Shovel-Class: is inherited from Sprite to create a game object which is using
     a sprite for visualization
 """
-__author__ = 'Oliver Banse'
 
 import pygame
 from pygame.sprite import Sprite

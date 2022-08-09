@@ -4,7 +4,6 @@
 Mole-Class: inherited from Sprite, used to create a mole object and add a
     sprite for visualization in game world
 """
-__author__ = 'Oliver Banse'
 
 import random
 
@@ -14,8 +13,11 @@ from pygame.sprite import Sprite
 
 class Mole(Sprite):
     # constructor
-    def __init__(self, screen_width, screen_height,
-                 threshold_left=0, threshold_top=0):
+    def __init__(self,
+                 screen_width,
+                 screen_height,
+                 threshold_left=0,
+                 threshold_top=0):
         # call constructor from parent class
         Sprite.__init__(self)
         # visualization
@@ -57,3 +59,7 @@ class Mole(Sprite):
     # check if param 'pos' is within the hit-box
     def hitted(self, pos):
         return self.rect.collidepoint(pos)
+
+
+#build some tests
+

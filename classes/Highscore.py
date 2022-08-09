@@ -5,7 +5,6 @@ Highscore-Class: creates a highscore-object with several methods within to
     manage highscore. For example saving, loading and displaying the
     highscores
 """
-__author__ = 'Oliver Banse'
 
 import json
 from operator import itemgetter

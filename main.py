@@ -1,13 +1,9 @@
 #!/usr/bin/python
 # -*- encoding: utf-8 -*-
 
-__author__ = 'Oliver Banse'
-
-
 # IDEA
 # Import and Initialization
 import pygame
-import numpy as np
 from classes.Game import Game
 from classes.Screen import Screen
 print("the game starts!")

@@ -3,7 +3,6 @@
 """
 Colors: will be used by the game
 """
-__author__ = 'Oliver Banse'
 
 # -> define some colors
 black = (0, 0, 0)
