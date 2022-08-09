@@ -1,0 +1,42 @@
+{
+  "files": {
+    "classes/Highscore.py": [
+      {
+        "id": "13865ac9-364c-4e28-88fd-0d900006739b",
+        "line": 28,
+        "version": 13,
+        "index": 643
+      },
+      {
+        "id": "aa0112d9-f7eb-43b9-ab1f-4db1e87eeebe",
+        "line": 29,
+        "version": 13,
+        "index": 656
+      },
+      {
+        "id": "e125e829-925f-497e-a5fd-e408e4dc9450",
+        "line": 30,
+        "version": 13,
+        "index": 710
+      },
+      {
+        "id": "b633597e-0875-4f34-9daf-1906bbd37351",
+        "line": 31,
+        "version": 13,
+        "index": 759
+      },
+      {
+        "id": "4b529cb9-45e2-49f5-879b-8543e08d144f",
+        "line": 32,
+        "version": 13,
+        "index": 793
+      },
+      {
+        "id": "ea57ec2e-2036-4191-a7ef-ebca34d85baf",
+        "line": 33,
+        "version": 13,
+        "index": 815
+      }
+    ]
+  }
+}
