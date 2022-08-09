@@ -25,6 +25,6 @@ game = Game(screen)
 # Run Game
 game.start()
 
-
+print("this has just been updated")
 # if __name__ == '__main__':
 #     game.start()
