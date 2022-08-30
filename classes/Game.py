@@ -16,7 +16,6 @@ from classes.Shovel import Shovel
 
 pygame.init()
 
-
 class Game:
     # constructor
     def __init__(self, screen):
