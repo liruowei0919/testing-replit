@@ -19,3 +19,5 @@ bright_green = (0, 255, 0)
 bright_blue = (0, 0, 255)
 bright_orange = (254, 169, 42)
 bright_violett = (127, 85, 255)
+
+black = (255,255,255)
